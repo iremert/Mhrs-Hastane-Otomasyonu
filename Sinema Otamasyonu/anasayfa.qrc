@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="arkaplan">
+    <file>icon6.png</file>
+    <file>icon5.png</file>
+    <file>icon4.png</file>
+    <file>arkaplan11.jpg</file>
+    <file>arkaplan10.jpg</file>
+    <file>arkaplan9.jpeg</file>
+    <file>arkaplan7.jpg</file>
+    <file>arkaplan6.jpg</file>
+    <file>arkaplan5.jpeg</file>
+    <file>icon1.png</file>
+    <file>arkaplan3.jpg</file>
+    <file>arkaplan2.jpg</file>
+  </qresource>
+  <qresource prefix="icon">
+    <file>arkaplan8.jpg</file>
+    <file>icon3.png</file>
+    <file>icon2.png</file>
+  </qresource>
+</RCC>

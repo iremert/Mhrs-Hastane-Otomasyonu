@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AnaSayfa</class>
+ <widget class="QMainWindow" name="AnaSayfa">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>843</width>
+    <height>568</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Ana Sayfa</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="../../../../Resimler/Ekran Görüntüleri/anasayfa.qrc">
+    <normaloff>:/anasayfa1/icon2.png</normaloff>:/anasayfa1/icon2.png</iconset>
+  </property>
+  <property name="windowOpacity">
+   <double>10000000.000000000000000</double>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#centralwidget{
+border-image: url(:/anasayfa1/arkaplan2.jpg);
+}</string>
+  </property>
+  <property name="iconSize">
+   <size>
+    <width>50</width>
+    <height>50</height>
+   </size>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>400</y>
+      <width>239</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="sizePolicy">
+     <sizepolicy hsizetype="Minimum" vsizetype="Fixed">
+      <horstretch>0</horstretch>
+      <verstretch>0</verstretch>
+     </sizepolicy>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>0</width>
+      <height>0</height>
+     </size>
+    </property>
+    <property name="text">
+     <string>Kullanıcı Paneli</string>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../../Resimler/Ekran Görüntüleri/anasayfa.qrc">
+      <normaloff>:/anasayfa1/icon2.png</normaloff>:/anasayfa1/icon2.png</iconset>
+    </property>
+    <property name="iconSize">
+     <size>
+      <width>20</width>
+      <height>20</height>
+     </size>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_3">
+    <property name="geometry">
+     <rect>
+      <x>640</x>
+      <y>470</y>
+      <width>93</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="text">
+     <string>ÇIKIŞ</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>330</y>
+      <width>239</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Yönetici Paneli</string>
+    </property>
+    <property name="icon">
+     <iconset resource="../../../../Resimler/Ekran Görüntüleri/anasayfa.qrc">
+      <normaloff>:/anasayfa1/icon2.png</normaloff>:/anasayfa1/icon2.png</iconset>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>843</width>
+     <height>26</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../../../../Resimler/Ekran Görüntüleri/anasayfa.qrc"/>
+ </resources>
+ <connections/>
+</ui>

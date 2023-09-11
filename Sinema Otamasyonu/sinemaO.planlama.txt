@@ -1,0 +1,25 @@
+seanslar filmadııd  tarih salonıd  seanssaatiıd
+1              1     1          1         1
+2              1     2          1         2
+3              2     1          2         1
+seans seanssaat
+1	   10.00    
+2	   11.00
+3
+4
+
+tarih tarih
+1	  e
+2       a
+
+
+
+rezervasyon  filmadııd  salonıd filmtarihiıd filmseansı ad_soyad  koltukno ücret			
+1			1         1          1            1      			1    
+2                 1         1          1            2      			5
+
+
+rezervasyon
+
+filmekle,salon ekle:aynı girilebilir
+listeleme:sıkıntılı
