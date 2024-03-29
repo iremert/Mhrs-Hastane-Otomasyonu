@@ -1,0 +1,267 @@
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Mhrs.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form2.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form3.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form4.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form5.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form6.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form7.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form8.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\stdole.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form9.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form10.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form11.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form12.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form13.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form14.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\Mhrs Otomasyonu\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.SqlServerTypes.Form15.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\stdole.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Mhrs.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form10.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form11.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form12.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form13.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form14.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.SqlServerTypes.Form15.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form2.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form3.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form4.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form5.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form6.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form7.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form8.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form9.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form16.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form17.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form18.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form19.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form20.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form21.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form22.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form23.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form24.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form25.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form26.resources
+C:\Users\lenovo\OneDrive\Masaüstü\Future\c#\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form27.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe.config
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Mhrs Otomasyonu.pdb
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\stdole.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.ResolveComReference.cache
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Mhrs.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form10.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form11.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form12.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form13.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form14.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.SqlServerTypes.Form15.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form16.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form17.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form18.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form19.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form2.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form20.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form21.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form22.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form23.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form24.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form25.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form26.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form27.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form3.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form4.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form5.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form6.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form7.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form8.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Form9.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs_Otomasyonu.Properties.Resources.resources
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.GenerateResource.cache
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.csproj.CopyComplete
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.exe
+C:\Users\lenovo\OneDrive\Masaüstü\ıs thıs the place\1_c#_udemy_yutup\part17,Mhrs\Mhrs Otomasyonu\obj\Debug\Mhrs Otomasyonu.pdb
