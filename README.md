@@ -2,7 +2,7 @@
 - Web sitesini örnek alarak yaptığım bir otomasyon oldu.
 
 
-### Bir kaç fotoğraf ekliyorum.
+### Bir kaç fotoğraf ekliyorum ...
 ![image](https://github.com/user-attachments/assets/1e151b39-1e1b-42d5-8d36-59470e3fc5d4)
 
 ![image](https://github.com/user-attachments/assets/e8c34b5f-a927-469a-b24e-2dbbe56f59a7)
